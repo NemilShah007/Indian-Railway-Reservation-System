@@ -10,3 +10,8 @@ This code is typed in Notepad and run using Command Prompt.
 Once the purpose of the code is served, it basically makes an exit.    
 
 The code can be run again for fresh bookings!!!    
+
+![Frame 1](https://github.com/NemilShah007/Indian-Railway-Reservation-System/blob/master/f1.png)
+![Frame 2](https://github.com/NemilShah007/Indian-Railway-Reservation-System/blob/master/f2.png)
+![Frame 3](https://github.com/NemilShah007/Indian-Railway-Reservation-System/blob/master/f3.png)
+![Frame 4](https://github.com/NemilShah007/Indian-Railway-Reservation-System/blob/master/f4.png)
